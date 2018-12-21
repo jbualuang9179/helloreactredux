@@ -62,3 +62,5 @@ const mapStateToProps = function(state) {
 
 const AppWithConnect = connect(mapStateToProps)(App)
 export default AppWithConnect
+
+// commit
